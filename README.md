@@ -65,21 +65,5 @@ print("Bilangan terbesar adalah:", terbesar)
 
 ----------------------------------------------------------------------------------------------------
 DATA 1,2,3 dengan hasil bilangan terbesar
-<img width="851" alt="image" src="https://github.com/user-attachments/assets/09c130bd-122a-4b1c-b7e8-436761006bf2">
-
-
-
-
-
-<img width="825" alt="image" src="https://github.com/user-attachments/assets/54529fba-3f50-4bc5-a96c-3dbb6e06916b">
-
-
-
-
-
-
-
-
-
-
-<img width="949" alt="image" src="https://github.com/user-attachments/assets/81324781-b20d-4c36-92fa-2468ad0df262">
+<img ![image](https://github.com/user-attachments/assets/a164ff5c-c532-4483-8478-85aff0ca299d)
+>
